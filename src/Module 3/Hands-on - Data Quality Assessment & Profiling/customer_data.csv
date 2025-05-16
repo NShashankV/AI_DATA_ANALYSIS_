@@ -1,0 +1,8 @@
+CustomerID,Name,Email,Phone
+1,Alice,alice@example.com,1234567890
+2,Bob,bob@example.com,2345678901
+3,Charlie,charlie@example.com,
+4,Diana,diana@example.com,4567890123
+5,Ethan,ethan@example.com,5678901234
+6,Frank,alice@example.com,6789012345
+7,Grace,,7890123456
